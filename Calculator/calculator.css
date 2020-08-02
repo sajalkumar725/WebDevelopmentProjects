@@ -1,0 +1,30 @@
+.t1{
+    height:440px;
+    width:532px;
+    border: 2px black;
+    margin: 50px;
+    background-color: grey;
+}
+#result{
+    height: 50px;
+    width:390px;
+    font-size: xx-large;
+    background-color: rgb(red, green, blue);
+}
+
+.t{
+    height: 80px;
+    width: 120px;
+    background-color: rgb(red, green, blue);
+    color: black;
+    font-size: x-large;
+}
+.icon{
+    background-color: rgb(red, green, blue);;
+}
+#result:hover{
+    transform: scale(1.2);
+}
+.t:hover{
+    transform: scale(1.2);
+}
