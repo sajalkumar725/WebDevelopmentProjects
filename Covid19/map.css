@@ -1,0 +1,10 @@
+.circle{
+    border:  solid 1px black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+}
+img{
+    height: 200px;
+}

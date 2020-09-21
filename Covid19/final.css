@@ -1,0 +1,70 @@
+.h1{
+    margin: 50px;
+    overflow: hidden;
+    border: solid 2px #eee;
+    display: block;
+    border-radius: 30px;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+.h2{
+    position: absolute;
+    bottom: 150px;
+    left: 650px;
+    border: solid 20px white;
+    border-block-start-width: 60px;
+    border-radius: 10px;
+    
+}
+img{
+    height: 310px;
+}
+.h21{
+    position: absolute;
+    top: -210px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    justify-content: space-between;
+    font-style: bold;
+    background-color: white;
+    border:solid 2px white;
+    border-block-width: 60px;
+    right: -20px;
+    border-radius: 10px;
+    
+}
+
+.confirmed{
+    border:  1px ;
+    border-radius: 5px;
+    background-color: rgb(255, 200, 200);
+    color: red;
+}
+.active{
+    border:  1px ;
+    border-radius: 5px;
+    background-color: rgb(138, 215, 245);
+    color: blue;
+
+}
+.recovered{
+    border:  1px ;
+    border-radius: 5px;
+    background-color: rgb(173, 241, 173);
+    color: green;
+}
+.deceased{
+    border:  1px ;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    color: grey;
+}
+.deceased{
+    bo
+}
